@@ -1,4 +1,15 @@
-﻿int[] selection_sort_numbers = { 5,72,3,14,7,1};
+﻿/*
+
+Date : 2/28/2024
+Name: Sasank reddy dodda 
+Roll no : U81834293
+Comments: This C# Console Application code demonstrates the
+    Selection Sort Algorithm. No input
+    is required for the script. It will execute without 
+    input against two pre-populated arrays. 
+
+*/
+int[] selection_sort_numbers = { 5,72,3,14,7,1};
 Console.WriteLine("Here is the original array that will be used to execute the Selection Sort Algorithm: ");
 for (int i = 0; i < selection_sort_numbers.Length; i++)
 {
